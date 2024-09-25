@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/name/static/css/main.085d5f2b.css",
-    "main.js": "/name/static/js/main.03f8cef3.js",
-    "static/js/453.3e961d56.chunk.js": "/name/static/js/453.3e961d56.chunk.js",
-    "index.html": "/name/index.html",
-    "main.085d5f2b.css.map": "/name/static/css/main.085d5f2b.css.map",
-    "main.03f8cef3.js.map": "/name/static/js/main.03f8cef3.js.map",
-    "453.3e961d56.chunk.js.map": "/name/static/js/453.3e961d56.chunk.js.map"
+    "main.css": "/SecretsOfKitchen/static/css/main.085d5f2b.css",
+    "main.js": "/SecretsOfKitchen/static/js/main.bc472c39.js",
+    "static/js/453.3e961d56.chunk.js": "/SecretsOfKitchen/static/js/453.3e961d56.chunk.js",
+    "index.html": "/SecretsOfKitchen/index.html",
+    "main.085d5f2b.css.map": "/SecretsOfKitchen/static/css/main.085d5f2b.css.map",
+    "main.bc472c39.js.map": "/SecretsOfKitchen/static/js/main.bc472c39.js.map",
+    "453.3e961d56.chunk.js.map": "/SecretsOfKitchen/static/js/453.3e961d56.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.085d5f2b.css",
-    "static/js/main.03f8cef3.js"
+    "static/js/main.bc472c39.js"
   ]
 }
