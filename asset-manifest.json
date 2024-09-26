@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SecretsOfKitchen/static/css/main.ca96b962.css",
-    "main.js": "/SecretsOfKitchen/static/js/main.99aaf72e.js",
+    "main.css": "/SecretsOfKitchen/static/css/main.14ab26fe.css",
+    "main.js": "/SecretsOfKitchen/static/js/main.dad58204.js",
     "static/js/453.3e961d56.chunk.js": "/SecretsOfKitchen/static/js/453.3e961d56.chunk.js",
     "index.html": "/SecretsOfKitchen/index.html",
-    "main.ca96b962.css.map": "/SecretsOfKitchen/static/css/main.ca96b962.css.map",
-    "main.99aaf72e.js.map": "/SecretsOfKitchen/static/js/main.99aaf72e.js.map",
+    "main.14ab26fe.css.map": "/SecretsOfKitchen/static/css/main.14ab26fe.css.map",
+    "main.dad58204.js.map": "/SecretsOfKitchen/static/js/main.dad58204.js.map",
     "453.3e961d56.chunk.js.map": "/SecretsOfKitchen/static/js/453.3e961d56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca96b962.css",
-    "static/js/main.99aaf72e.js"
+    "static/css/main.14ab26fe.css",
+    "static/js/main.dad58204.js"
   ]
 }
